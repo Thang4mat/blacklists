@@ -3,4 +3,4 @@
 !
 
 @@|*.garena.com^$important
-@@|dem.shopee.com^$important
+@@|df.infra.sz.shopee.vn^$important
