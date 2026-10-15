@@ -1,4 +1,6 @@
 !
 ! Title: WhiteList
 !
-@@|garena.com^$important
+
+@@|*.garena.com^$important
+@@|dem.shopee.com^$important
