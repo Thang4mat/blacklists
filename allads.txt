@@ -2,6 +2,7 @@
 ! Title: BlackList
 !
 ! ---------Rule only for AdGuard------
+
 animevietsub.io#%#//scriptlet("abort-current-inline-script", "document.documentElement", "break;case $.")
 aoe.vn#%#//scriptlet("abort-on-property-read", "parseInt")
 audiotruyenfull.com#%#//scriptlet("abort-on-property-read", "adpiaListUrl")
@@ -371,6 +372,9 @@ xn--12cmb2ccf5rsb7e.net###widget_04
 
 ||tndeal.io^
 ||collector.moonforge.co^
+||downloadtonic.org^
+||un-locked.org^
+||cdburnerxp.com^
 
 !----Regex----
 /^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]/
