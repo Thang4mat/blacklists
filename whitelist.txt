@@ -2,6 +2,6 @@
 ! Title: WhiteList
 !
 
-@@|*.garena.com^$important
-@@|df.infra.sz.shopee.vn^$important
-@@|sfl-price-history-mangoisme.web.app^$important
+@@||*.garena.com^$important
+@@||df.infra.sz.shopee.vn^$important
+@@||sfl-price-history-mangoisme.web.app^$important
