@@ -2,6 +2,6 @@
 ! Title: WhiteList
 !
 
-@@||*.garena.com^$important
-@@||df.infra.sz.shopee.vn^$important
+@@||garena.com^$important
 @@||sfl*.web.app^$important
+@@||susercontent.com^$important
